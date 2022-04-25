@@ -1,2 +1,5 @@
 print("abcdem")
-print("sds")
+<<<<<<< HEAD
+=======
+print("sdd")
+>>>>>>> master
